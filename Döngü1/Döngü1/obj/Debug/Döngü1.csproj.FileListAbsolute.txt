@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\Döngü1\Döngü1\bin\Debug\Döngü1.exe.config
+C:\Users\user\Desktop\10-M\Döngü1\Döngü1\bin\Debug\Döngü1.exe
+C:\Users\user\Desktop\10-M\Döngü1\Döngü1\bin\Debug\Döngü1.pdb
+C:\Users\user\Desktop\10-M\Döngü1\Döngü1\obj\Debug\Döngü1.Form1.resources
+C:\Users\user\Desktop\10-M\Döngü1\Döngü1\obj\Debug\Döngü1.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\Döngü1\Döngü1\obj\Debug\Döngü1.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\Döngü1\Döngü1\obj\Debug\Döngü1.exe
+C:\Users\user\Desktop\10-M\Döngü1\Döngü1\obj\Debug\Döngü1.pdb
+C:\Users\user\Desktop\10-M\Döngü1\Döngü1\obj\Debug\Döngü1.csprojResolveAssemblyReference.cache
